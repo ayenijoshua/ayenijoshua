@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Ayeni
-- 👀 I’m interested in JavaScript & Golang
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in Mobile development and Golang
+- 🌱 I’m currently building a SAAS application with Nodejs
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me ...larryjmpk@gmail.com
 
